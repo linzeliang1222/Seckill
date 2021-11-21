@@ -5,6 +5,9 @@
       <artifact name="Seckill:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="486d39fe-0e0e-4a07-adaf-9a3f4f7b3a21" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +29,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -298,11 +304,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.seckill" />
-      <item itemvalue="Node.js.seckill.js" />
       <item itemvalue="JUnit.RedisDaoTest.testSeckill" />
       <item itemvalue="JUnit.SeckillServiceTest.executeSeckillProcedureTest" />
       <item itemvalue="JUnit.SeckillDaoTest.killByProcedure" />
+      <item itemvalue="Node.js.seckill.js" />
+      <item itemvalue="Tomcat Server.seckill" />
     </list>
     <recent_temporary>
       <list>
@@ -313,6 +319,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -324,11 +331,16 @@
       <option name="presentableId" value="Default" />
       <updated>1627262045114</updated>
       <workItem from="1627262046586" duration="99634000" />
+      <workItem from="1627737671644" duration="13336000" />
+      <workItem from="1627839224814" duration="209000" />
+      <workItem from="1627881816472" duration="7708000" />
+      <workItem from="1628176286996" duration="109000" />
+      <workItem from="1636141618434" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="30" key="#Project_Structure" timestamp="1627451035466">
@@ -351,10 +363,10 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="513" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1536.834@0.30.1536.834" timestamp="1627485469897" />
-    <state x="549" y="241" key="FileChooserDialogImpl" timestamp="1627602088060">
+    <state x="549" y="241" key="FileChooserDialogImpl" timestamp="1628176393183">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="549" y="241" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1627602088060" />
+    <state x="549" y="241" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1628176393183" />
     <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1627659102972">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -427,14 +439,14 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="545" y="204" key="refactoring.ChangeSignatureDialog/0.30.1536.834@0.30.1536.834" timestamp="1627458504766" />
-    <state x="425" y="204" width="672" height="677" key="run.anything.popup" timestamp="1627552343040">
+    <state x="425" y="204" width="672" height="677" key="run.anything.popup" timestamp="1628009481128">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="425" y="204" width="672" height="677" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1627552343040" />
-    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1627646098070">
+    <state x="425" y="204" width="672" height="677" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1628009481128" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1627885909840">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1627646098070" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1627885909840" />
     <state x="449" y="46" key="spring file set editor" timestamp="1627627636846">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
